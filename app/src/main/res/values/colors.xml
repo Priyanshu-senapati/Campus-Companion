@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- RVU brand -->
+    <color name="rvu_primary">#1B4B8A</color>
+    <color name="rvu_primary_dark">#143A6B</color>
+    <color name="rvu_primary_light">#3A6BB0</color>
+    <color name="rvu_secondary">#F5A623</color>
+    <color name="rvu_secondary_dark">#C5851A</color>
+    <color name="rvu_secondary_light">#FFCB66</color>
+
+    <!-- Material -->
+    <color name="background">#F8F9FA</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="on_surface">#1A1A1A</color>
+    <color name="on_surface_variant">#5F6368</color>
+    <color name="outline">#E0E0E0</color>
+    <color name="error">#D32F2F</color>
+    <color name="success">#2E7D32</color>
+    <color name="warning">#F9A825</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+
+    <!-- Chat bubbles -->
+    <color name="bubble_sent">#1B4B8A</color>
+    <color name="bubble_received">#E8EAF1</color>
+
+    <!-- Attendance -->
+    <color name="attendance_good">#2E7D32</color>
+    <color name="attendance_warn">#F9A825</color>
+    <color name="attendance_bad">#D32F2F</color>
+
+    <!-- Chart palette -->
+    <color name="chart_1">#1B4B8A</color>
+    <color name="chart_2">#F5A623</color>
+    <color name="chart_3">#2E7D32</color>
+    <color name="chart_4">#D32F2F</color>
+    <color name="chart_5">#7E57C2</color>
+</resources>

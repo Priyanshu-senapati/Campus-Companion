@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RVU Campus Companion</string>
+    <string name="app_tagline">Your campus, in your pocket</string>
+
+    <!-- Auth -->
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="full_name">Full Name</string>
+    <string name="prn">PRN / Student ID</string>
+    <string name="branch">Branch</string>
+    <string name="semester">Semester</string>
+    <string name="remember_me">Remember me</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="no_account">Don\'t have an account? Sign up</string>
+    <string name="have_account">Already have an account? Sign in</string>
+    <string name="google_sign_in">Continue with Google</string>
+    <string name="sign_out">Sign Out</string>
+
+    <!-- Tabs -->
+    <string name="tab_home">Home</string>
+    <string name="tab_events">Events</string>
+    <string name="tab_map">Map</string>
+    <string name="tab_profile">Profile</string>
+    <string name="tab_more">More</string>
+
+    <!-- Dashboard -->
+    <string name="welcome_back">Welcome back,</string>
+    <string name="todays_classes">Today\'s Classes</string>
+    <string name="attendance_summary">Attendance Summary</string>
+    <string name="quick_actions">Quick Actions</string>
+    <string name="upcoming_events">Upcoming Events</string>
+    <string name="announcements">Announcements</string>
+    <string name="quote_of_day">Quote of the Day</string>
+
+    <!-- Features -->
+    <string name="timetable">Timetable</string>
+    <string name="attendance">Attendance</string>
+    <string name="campus_map">Campus Map</string>
+    <string name="lost_and_found">Lost &amp; Found</string>
+    <string name="canteen">Mingo\'s Canteen</string>
+    <string name="study_groups">Study Groups</string>
+    <string name="profile">Profile</string>
+    <string name="news">News</string>
+
+    <!-- Actions -->
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="add">Add</string>
+    <string name="send">Send</string>
+    <string name="register_event">Register</string>
+    <string name="unregister_event">Unregister</string>
+    <string name="get_directions">Get Directions</string>
+    <string name="post">Post</string>
+    <string name="contact">Contact</string>
+
+    <!-- Empty states -->
+    <string name="empty_events">No events yet — check back soon</string>
+    <string name="empty_lostfound">Nothing posted here yet</string>
+    <string name="empty_attendance">No attendance records</string>
+    <string name="empty_chat">Start the conversation</string>
+
+    <!-- Errors -->
+    <string name="error_generic">Something went wrong</string>
+    <string name="error_network">No internet connection</string>
+    <string name="error_email_invalid">Enter a valid @rvu.edu.in email</string>
+    <string name="error_password_short">Password must be at least 6 characters</string>
+    <string name="error_password_mismatch">Passwords do not match</string>
+    <string name="error_required">Required</string>
+
+    <!-- Misc -->
+    <string name="retry">Retry</string>
+    <string name="loading">Loading…</string>
+    <string name="search_locations">Search locations</string>
+    <string name="message_hint">Type a message…</string>
+    <string name="dark_mode">Dark mode</string>
+    <string name="notifications">Notifications</string>
+    <string name="version">Version 1.0</string>
+
+    <!-- Channels -->
+    <string name="channel_events">Events &amp; Announcements</string>
+    <string name="channel_reminders">Class Reminders</string>
+</resources>

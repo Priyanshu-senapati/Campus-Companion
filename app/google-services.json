@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "265079923106",
+    "project_id": "rvu-campus-companion",
+    "storage_bucket": "rvu-campus-companion.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265079923106:android:6b0391fd72978757a712fb",
+        "android_client_info": {
+          "package_name": "com.rvu.campuscompanion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJjfsnMUvIG5eMtBo_sfnBYZd1SQpSfNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

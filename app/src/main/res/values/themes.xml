@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.RVUCampusCompanion" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/rvu_primary</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorPrimaryContainer">@color/rvu_primary_light</item>
+        <item name="colorOnPrimaryContainer">@color/white</item>
+        <item name="colorSecondary">@color/rvu_secondary</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="colorSecondaryContainer">@color/rvu_secondary_light</item>
+        <item name="colorOnSecondaryContainer">@color/black</item>
+        <item name="colorError">@color/error</item>
+        <item name="colorOnError">@color/white</item>
+        <item name="android:colorBackground">@color/background</item>
+        <item name="colorSurface">@color/surface</item>
+        <item name="colorOnSurface">@color/on_surface</item>
+        <item name="colorOnSurfaceVariant">@color/on_surface_variant</item>
+        <item name="colorOutline">@color/outline</item>
+        <item name="android:statusBarColor">@color/rvu_primary</item>
+        <item name="android:navigationBarColor">@color/surface</item>
+        <item name="materialCardViewStyle">@style/Widget.RVU.Card</item>
+        <item name="bottomNavigationStyle">@style/Widget.RVU.BottomNav</item>
+        <item name="textInputStyle">@style/Widget.RVU.TextInputLayout</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m">false</item>
+    </style>
+
+    <style name="Theme.RVUCampusCompanion.Splash" parent="Theme.RVUCampusCompanion">
+        <item name="android:windowBackground">@drawable/splash_background</item>
+    </style>
+
+    <style name="Widget.RVU.Card" parent="Widget.Material3.CardView.Elevated">
+        <item name="cardCornerRadius">12dp</item>
+        <item name="cardElevation">2dp</item>
+        <item name="cardBackgroundColor">@color/surface</item>
+        <item name="rippleColor">@color/rvu_primary_light</item>
+    </style>
+
+    <style name="Widget.RVU.BottomNav" parent="Widget.Material3.BottomNavigationView">
+        <item name="itemIconTint">@color/bottom_nav_color</item>
+        <item name="itemTextColor">@color/bottom_nav_color</item>
+        <item name="labelVisibilityMode">labeled</item>
+    </style>
+
+    <style name="Widget.RVU.TextInputLayout" parent="Widget.Material3.TextInputLayout.OutlinedBox">
+        <item name="boxStrokeColor">@color/rvu_primary</item>
+        <item name="hintTextColor">@color/rvu_primary</item>
+        <item name="boxCornerRadiusBottomEnd">12dp</item>
+        <item name="boxCornerRadiusBottomStart">12dp</item>
+        <item name="boxCornerRadiusTopEnd">12dp</item>
+        <item name="boxCornerRadiusTopStart">12dp</item>
+    </style>
+
+    <style name="TextStyle.Display" parent="TextAppearance.Material3.HeadlineLarge">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/on_surface</item>
+    </style>
+    <style name="TextStyle.Headline" parent="TextAppearance.Material3.HeadlineSmall">
+        <item name="android:textColor">@color/on_surface</item>
+    </style>
+    <style name="TextStyle.Title" parent="TextAppearance.Material3.TitleMedium">
+        <item name="android:textColor">@color/on_surface</item>
+    </style>
+    <style name="TextStyle.Body" parent="TextAppearance.Material3.BodyMedium">
+        <item name="android:textColor">@color/on_surface_variant</item>
+    </style>
+    <style name="TextStyle.Label" parent="TextAppearance.Material3.LabelSmall">
+        <item name="android:textColor">@color/on_surface_variant</item>
+    </style>
+</resources>

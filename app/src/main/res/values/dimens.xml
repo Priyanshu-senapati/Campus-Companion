@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="space_xs">4dp</dimen>
+    <dimen name="space_s">8dp</dimen>
+    <dimen name="space_m">16dp</dimen>
+    <dimen name="space_l">24dp</dimen>
+    <dimen name="space_xl">32dp</dimen>
+
+    <dimen name="card_radius">12dp</dimen>
+    <dimen name="card_elevation">2dp</dimen>
+
+    <dimen name="avatar_small">40dp</dimen>
+    <dimen name="avatar_medium">56dp</dimen>
+    <dimen name="avatar_large">96dp</dimen>
+
+    <dimen name="bottom_nav_height">64dp</dimen>
+    <dimen name="toolbar_height">56dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+</resources>
