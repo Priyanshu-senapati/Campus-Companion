@@ -13,7 +13,7 @@ import com.rvu.campuscompanion.utils.toFormattedDate
 import com.rvu.campuscompanion.viewmodel.AttendanceViewModel
 import com.rvu.campuscompanion.viewmodel.ViewModelFactory
 
-class AttendanceDetailFragment : Fragment() {
+class AttendanceDetailFragment : Fragment() {\
     private var _b: FragmentAttendanceDetailBinding? = null
     private val b get() = _b!!
     private val vm: AttendanceViewModel by viewModels {
